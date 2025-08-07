@@ -16,7 +16,7 @@ Um chefe épico criado para desafiar grupos de 7 a 8 jogadores em níveis altos.
 
 ---
 
-## 🔮 Magias Automatizadas
+## Magias Automatizadas
 
 As magias a seguir foram personalizadas com macros para maior fidelidade às regras e interações criativas no VTT:
 
@@ -58,5 +58,5 @@ Este projeto está licenciado sob a [MIT License](LICENSE), exceto onde indicado
 
 Desenvolvido por **Matheus Gouveia**, estudante de Ciência da Computação e entusiasta de jogos digitais e sistemas de RPG. Com experiência em automação de fichas, uso avançado de módulos do Foundry VTT e narrativa interativa.
 
-Conecte-se no [LinkedIn](https://www.linkedin.com/in/matheus-gouveia) ou veja mais projetos no [GitHub]((https://github.com/LittleCoutto)).
+Conecte-se no [LinkedIn](https://www.linkedin.com/in/matheus-gouveia) ou veja mais projetos no [GitHub](https://github.com/LittleCoutto)
 
